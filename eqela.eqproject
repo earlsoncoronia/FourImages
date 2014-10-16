@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# thurs2
+#
+
+projectname: thurs2
+vendorid: com.coronia.example
+mainmodule: com.coronia.example.thurs2
